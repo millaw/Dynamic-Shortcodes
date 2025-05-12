@@ -7,11 +7,11 @@ A flexible WordPress plugin that handles unlimited dynamic shortcodes in the for
 
 ## Features
 
-- 🚀 **Unlimited Shortcodes** - Supports any number (1, 5, 1000, etc.)
-- ⚡ **Automatic Conversion** - Transforms numbered shortcodes to parameterized versions
-- 🔒 **Secure Output** - Built-in sanitization and escaping
-- 📦 **Clean Architecture** - Separated frontend/backend logic
-- 🎨 **Easy Styling** - CSS-ready class structure
+- **Unlimited Shortcodes** - Supports any number (1, 5, 1000, etc.)
+- **Automatic Conversion** - Transforms numbered shortcodes to parameterized versions
+- **Secure Output** - Built-in sanitization and escaping
+- **Clean Architecture** - Separated frontend/backend logic
+- **Easy Styling** - CSS-ready class structure
 
 ## Installation
 
